@@ -38,7 +38,7 @@ If you're using eclise, go to the class **ServiceRegisterApplication** and run i
 
 #### Testing the application
 
-In a browser, use this url to restor configurations:
+In a browser, use this url to see all the apps registered with eureka:
 * http://localhost:8761/
 
 ![Post Request](https://www.baeldung.com/wp-content/uploads/2016/08/Screenshot_20160819_073151.png)
